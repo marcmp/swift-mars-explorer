@@ -3,11 +3,12 @@ This is a Mars Rover Kata, using Swift 5 language.
 See Problem Description section for more info.
 
 ## How to build
-- This code is meant to be built in XCode in OSX.
-- Build makes an MarsExplorer executable file and a MarsExplorerCore framework which the executable links to.  The reason to have two separate "products" is just for testability purposes.
+- This code is meant to be built in XCode 10 in OSX.
+- Build makes an MarsExplorer executable file and a MarsExplorerCore framework. The reason to have two separate "products" is just for testability purposes.
 
 ## How to run
-Once built, go to the Build folder and execute:
+Locate the build folder and execute:
+
 $ s./MarsExplorer your_input_file
 
 Note: MarsExplorer won't work unless is ran in the same directory as MarsExplorerCore framework. A normal build will make both files available in the same Build directory.
