@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Sources"
+      name = "Sources">
+      <Group
+         location = "group:MarsExplorerCore"
+         name = "MarsExplorerCore">
+         <FileRef
+            location = "group:Plateau.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Size.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Rover.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Parser.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Position.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MarsExplorer"
+         name = "MarsExplorer">
+         <FileRef
+            location = "group:main.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

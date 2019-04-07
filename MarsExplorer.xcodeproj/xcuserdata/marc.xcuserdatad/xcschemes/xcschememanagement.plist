@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MarsExplorer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MarsExplorerCore.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MarsExplorerCoreTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4912CB012256960000CAF5B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4912CB112256981A00CAF5B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4912CB99225772D800CAF5B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4912CBA1225772D800CAF5B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>49FD241722565F4700550899</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
